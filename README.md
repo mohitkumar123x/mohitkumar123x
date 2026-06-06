@@ -2,7 +2,7 @@
 
 # Mohit Kumar
 
-### Full-Stack Developer @ Havells India | Ex-IIT Guwahati (M.Tech CSE - 8.12 CGPA) | Building Scalable Systems
+### Full-Stack Developer @ Havells India | Building Scalable Systems | IIT Guwahati (M.Tech CSE - 8.12 CGPA) | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitkumar123x)
@@ -15,7 +15,7 @@
 
 ## 💡 About Me
 
-I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertise in building **scalable web applications** and **real-time systems**. Passionate about clean architecture, performance optimization, and modern DevOps practices.
+I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertise in building **scalable web applications** and **real-time systems**. Passionate about clean architecture, performance optimization, scalable systems and modern DevOps practices.
 
 - 🏢 **Developed real-time monitoring dashboard** for 10,000+ devices, replacing legacy vendor solution → saved recurring costs
 - ⚡ **Optimized e-commerce backend** serving 50K+ users with improved checkout reliability
