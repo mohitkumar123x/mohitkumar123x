@@ -35,7 +35,7 @@ I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertis
 
 - **[Create Desk](https://github.com/mohitkumar123x/Create-Desk)** — Full-stack AI SaaS platform (React + Node.js + PostgreSQL) with Gemini & Clipdrop integration
 - **[Employee Management Application](https://github.com/mohitkumar123x/Employee-Management-Application__)** — Complete full-stack solution with React + Spring Boot + Docker + Jenkins CI/CD
-- **[KanbanBoard](https://github.com/mohitkumar123x/KanbanBoard)** — Multi-service task management app with C++ microservice
+- **[KanbanBoard](https://github.com/mohitkumar123x/KanbanBoard)** — Real-time collaborative Kanban board with offline sync and optimistic UI.
 - **[Speech Based Browser](https://github.com/mohitkumar123x/Speech_based_browser)** — IIT Guwahati academic project (C++ speech recognition system)
 
 ## 🎓 Education
