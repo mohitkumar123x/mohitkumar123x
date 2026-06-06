@@ -47,7 +47,7 @@ Indian Institute of Technology Guwahati | 2021 – 2023 | **8.12 CGPA**
 
 Always open to discussions on **system design**, **full-stack development**, and **career opportunities**.
 
-[**💼 LinkedIn**]([https://www.linkedin.com/in/mkr98/]) • [**📧 Email**](mailto:mohit.kumar.mk2349@gmail.com) • [**🔢 LeetCode**]([https://leetcode.com/u/Mohit123q/])
+[**💼 LinkedIn**](https://www.linkedin.com/in/mkr98/) • [**📧 Email**](mailto:mohit.kumar.mk2349@gmail.com) • [**🔢 LeetCode**](https://leetcode.com/u/Mohit123q/)
 
 ---
 
