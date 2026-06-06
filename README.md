@@ -17,12 +17,12 @@
 
 I'm a **Software Engineer** with 2+ years of experience developing scalable web applications and real-time dashboards, focusing on performance and reliability. Solid foundation in data structures and algorithms and System Design, with experience delivering production-ready solutions in agile, collaborative environments.
 
-
+<!--
 - 🏢 **Developed real-time monitoring dashboard** for 10,000+ devices, replacing legacy vendor solution → saved recurring costs
 - ⚡ **Optimized e-commerce backend** serving 50K+ users with improved checkout reliability
 - 🏆 **500+ DSA problems** solved | LeetCode Rating **1600+**
 - 🏅 Rated as **Excellent Performer** (2024–25) for innovation and teamwork
-
+-->
 
 
 ## 🛠️ Tech Stack
