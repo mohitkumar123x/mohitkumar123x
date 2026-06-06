@@ -2,7 +2,7 @@
 
 # Mohit Kumar
 
-### Full-Stack Developer @ Havells India | Building Scalable Systems | IIT Guwahati (M.Tech CSE - 8.12 CGPA) | 
+### Full-Stack Developer @ Havells India | Building Scalable Systems | IIT Guwahati (M.Tech-CSE) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitkumar123x)
