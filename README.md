@@ -15,7 +15,8 @@
 
 ## 💡 About Me
 
-I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertise in building **scalable web applications** and **real-time systems**. Passionate about clean architecture, performance optimization, scalable systems and modern DevOps practices.
+I'm a **Software Engineer** with 2+ years of experience developing scalable web applications and real-time dashboards, focusing on performance and reliability. Strong experience in system design, RESTful API development, and handling high-volume data using efficient state management and caching techniques. Solid foundation in data structures and algorithms, with experience delivering production-ready solutions in agile, collaborative environments.
+
 
 - 🏢 **Developed real-time monitoring dashboard** for 10,000+ devices, replacing legacy vendor solution → saved recurring costs
 - ⚡ **Optimized e-commerce backend** serving 50K+ users with improved checkout reliability
@@ -26,11 +27,11 @@ I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertis
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java, JavaScript, TypeScript, C++  
+**Languages**: Java, JavaScript, TypeScript, C++, Python 
 **Backend**: Spring Boot, Spring Security, Spring Data JPA, Hibernate, Node.js, RabbitMQ, MQTT  
 **Frontend**: React.js, Redux/Context API, Material UI, Tailwind CSS  
 **Databases**: MySQL, PostgreSQL, MongoDB, Redis  
-**Cloud & DevOps**: AWS (EC2, S3, RDS), Docker, CI/CD, Azure DecOps, Git  
+**Cloud & DevOps**: AWS (EC2, S3, RDS), Docker, CI/CD, Linux, Azure DevOps, Git  
 **Tools**: Gradle, GitHub, Cursor (AI)
 
 
