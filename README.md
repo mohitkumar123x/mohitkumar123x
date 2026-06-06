@@ -2,7 +2,7 @@
 
 # Mohit Kumar
 
-### Full-Stack Developer @ Havells India | Building Scalable Systems | IIT Guwahati (M.Tech-CSE) 
+### Software Engineer @ Havells India | Building Scalable Systems | IIT Guwahati (M.Tech-CSE) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitkumar123x)
@@ -22,14 +22,18 @@ I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertis
 - 🏆 **500+ DSA problems** solved | LeetCode Rating **1600+**
 - 🏅 Rated as **Excellent Performer** (2024–25) for innovation and teamwork
 
+
+
 ## 🛠️ Tech Stack
 
 **Languages**: Java, JavaScript, TypeScript, C++  
 **Backend**: Spring Boot, Spring Security, Spring Data JPA, Hibernate, Node.js, RabbitMQ, MQTT  
 **Frontend**: React.js, Redux/Context API, Material UI, Tailwind CSS  
 **Databases**: MySQL, PostgreSQL, MongoDB, Redis  
-**Cloud & DevOps**: AWS (EC2, S3, RDS), Docker, CI/CD (Jenkins), Git  
+**Cloud & DevOps**: AWS (EC2, S3, RDS), Docker, CI/CD, Azure DecOps, Git  
 **Tools**: Gradle, GitHub, Cursor (AI)
+
+
 
 ## 📌 Featured Projects
 
@@ -38,10 +42,14 @@ I'm a **Full-Stack Developer** at **Havells India Limited** with strong expertis
 - **[KanbanBoard](https://github.com/mohitkumar123x/KanbanBoard)** — Real-time collaborative Kanban board with offline sync and optimistic UI.
 - **[Speech Based Browser](https://github.com/mohitkumar123x/Speech_based_browser)** — IIT Guwahati academic project (C++ speech recognition system)
 
+
+
 ## 🎓 Education
 
 **M.Tech in Computer Science & Engineering**  
 Indian Institute of Technology Guwahati | 2021 – 2023 | **8.12 CGPA**
+
+
 
 ## 🌟 Let's Connect
 
