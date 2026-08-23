@@ -4,9 +4,9 @@
 
 ### Software Engineer @ Havells India | Building Scalable Systems | IIT Guwahati (M.Tech-CSE) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mkr98/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitkumar123x)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/your-leetcode/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)]((https://leetcode.com/u/Mohit123q/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohit.kumar.mk2349@gmail.com)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 💡 About Me
 
-I'm a **Software Engineer** with 2+ years of experience developing scalable web applications and real-time dashboards, focusing on performance and reliability. Solid foundation in data structures and algorithms and System Design, with experience delivering production-ready solutions in agile, collaborative environments.
+I'm a **Software Engineer** with 3 years of experience developing scalable web applications and real-time dashboards, focusing on performance and reliability. Solid foundation in data structures and algorithms and System Design, with experience delivering production-ready solutions in agile, collaborative environments.
 
 <!--
 - 🏢 **Developed real-time monitoring dashboard** for 10,000+ devices, replacing legacy vendor solution → saved recurring costs
